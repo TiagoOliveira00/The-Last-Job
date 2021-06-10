@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6b3b959c905c2f445b2dea8590be5ef8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Insomnia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d78bd9d00098b6e4e83047c7e2c6eb85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
